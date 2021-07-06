@@ -1,0 +1,21 @@
+
+.d-flex button{
+    margin: 1.5rem 0.5rem;
+    padding: 0.3rem 1.4rem;
+}
+
+.d-flex table{
+    margin: 1rem 10rem;
+}
+
+i.fas.fa-edit.btnedit {
+    color: lightsalmon;
+    cursor: pointer;
+}
+
+/*This css didnt work*/
+h6.error{
+    background-color: green !important;
+    padding: 1rem;
+    text-align: center;
+}
